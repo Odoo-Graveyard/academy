@@ -16,4 +16,4 @@ level = fields.Selection(string='Level',
                                     ('advanced', 'Advanced')],
                          copy=False)
 
-active = fields.Boolean(string='active', default=True)
+active = fields.Boolean(string='Active', default=True)
