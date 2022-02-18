@@ -2,9 +2,9 @@
 <odoo>
     <data noupdate="1">
         <record model="academy.course" id="erp_101">
-            <field name="name">ERP 101</field>
-            <field name="description">Learn ERP Systems</field>
-            <field name="level">beginner</field>
+            <field name="Name">ERP 101</field>
+            <field name="Description">Learn ERP Systems</field>
+            <field name="Level">beginner</field>
         </record>  
 
         <record model="academy.course" id="accounting_200">
