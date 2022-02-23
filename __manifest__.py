@@ -6,11 +6,7 @@
     'summary': """App to do simple accounting """,
 
     'description': """
-        Training Module
-        - level
-        - Training
-        - Interactive
-    
+        Training Module    
     """,
     'author': 'Hinamizawa',
 
@@ -18,7 +14,7 @@
 
     'category': 'Training',
 
-    'version': '0.1',
+    'version': '14.0.0',
 
     'depends': ['base'],
 
