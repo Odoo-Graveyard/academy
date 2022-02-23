@@ -24,7 +24,7 @@
 
     ],
     'demo': [
-        'odoo_academy/demo/academy_demo.xml',
+        'odoo_academy/views/academy_demo.xml',
 
     ],
 
