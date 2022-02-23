@@ -19,12 +19,12 @@
     'depends': ['base'],
 
     'data': [
-        'security/academy_security.xml',
-        'security/ir.model.access.csv',
+        'odoo_academy/security/academy_security.xml',
+        'odoo_academy/security/ir.model.access.csv',
 
     ],
     'demo': [
-        'views/academy_demo.xml',
+        'odoo_academy/views/academy_demo.xml',
 
     ],
 
